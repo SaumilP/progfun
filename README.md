@@ -1,4 +1,11 @@
-airthmetic_fun
+Progfun
 ==============
 
-Airthmetic methods practices based on Scala added
+Scala code snippets to understand basic functionality & FP concepts.
+
+Pre-Requisite
+-------------
+Scala-2.9+
+
+Feel free to download and change code to experiment with.
+
